@@ -7,7 +7,7 @@ The setup uses **Origin Access Control (OAC)** to keep the S3 bucket private and
 ---
 
 ## 🏗 Architecture
-![Architecture Diagram](./docs/diagram.png)
+![Architecture Diagram](./docs/diagram.jpg)
 
 **Flow:**
 1. User connects via CloudFront.  
